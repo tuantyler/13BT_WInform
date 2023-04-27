@@ -1,0 +1,11 @@
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\bin\Debug\Bai7.exe.config
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\bin\Debug\Bai7.exe
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\bin\Debug\Bai7.pdb
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.csproj.AssemblyReference.cache
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.Form1.resources
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.Properties.Resources.resources
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.exe
+C:\Users\Tuan\source\repos\13BaiTap_WForm\Bai7\obj\Debug\Bai7.pdb
